@@ -10,7 +10,7 @@ This is a repository. A repository is essentially a collection of files and fold
 
 Git is powerful because it allows you to maintain many different sandboxes of your project. Each one of these is called a branch so modifications to one branch will have no effect on others.<br>
 
-Every repository has a *main* branch which, at least for this project, will be the branch that stores the functioning version of our project. As such, we will never directly edit this branch (more on this in a later section). Instead, create a new branch with a name that most appropriately describes what you are working on (i.e. writing-readme).<br>
+Every repository has a *main* branch which, for most projects, will be the branch that stores the functioning version of our project. As such, we will never directly edit this branch (more on this in a later section). Instead, create a new branch with a name that most appropriately describes what you are working on (i.e. writing-readme).<br>
 
 Branch names should be more or less a general task. After it is complete, the branch can be merged with the main branch (more on this in a later section). This ensures that if anything goes wrong, it does not affect the funcitoning code. Additionally, it prevents multiple contributors from making changes that would impact eachother's code.<br>
 
